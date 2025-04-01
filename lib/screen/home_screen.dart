@@ -25,7 +25,7 @@ class _HomeScreenState extends State<HomeScreen> {
 
     /// todo-02-init-02: initialize those two variable in initState
     audioPlayer = AudioPlayer();
-    audioSource = AssetSource("cricket.wav");
+    audioSource = AssetSource("duha.mp3");
     audioPlayer.setSource(audioSource);
 
     /// todo-05-url-01: if audio source from url

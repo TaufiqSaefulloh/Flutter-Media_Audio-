@@ -30666,7 +30666,7 @@ s=A.aaf(p,!1,t.Bb)
 p=A.agl()
 q.d!==$&&A.bN()
 q.d=p
-r=new A.xb("cricket.wav",null)
+r=new A.xb("duha.mp3",null)
 q.e!==$&&A.bN()
 q.e=r
 p.m0(r)
